@@ -1,0 +1,51 @@
+.contenedor {
+    width: 41.4rem;
+    height: 89.6rem;
+     
+    margin: auto;
+}
+.logo {
+    width: 15.9rem;
+    height: 9.4rem;
+    float: left;
+    margin-top: 14.2rem;
+    margin-left: 12.5rem;
+}
+.iniciar{
+    float: left;
+    margin-left: 2rem;
+    margin-top: 64.4rem; 
+    position: absolute;
+}
+.iniciar button {
+    width: 37.4rem;
+    height: 5.6rem;
+    background-color: black;
+    color: white;
+    border-radius: 1.8rem;
+}
+.crear {
+    float: left;
+    position: absolute;
+    top: 73rem;
+    
+}
+.crear button {
+    width: 37.4rem;
+    height: 5.6rem;
+    border-radius: 1.8rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    cursor: pointer;
+left: 24px;
+top: 4rem;
+}
+.need {
+    float: left;
+    margin-top: 54.8rem;
+    margin-left: 15.5rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    cursor: pointer;
+}
